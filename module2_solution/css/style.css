@@ -12,15 +12,15 @@ h1 {
 }
 
 section {
-    border: 1px solid black;
+    border: 1px solid yellow;
     background-color: #b5c4d2;
     margin: 12px;
 }
 
 section>h2 {
     float: right;
-    border-bottom: 1px solid black;
-    border-left: 1px solid black;
+    border-bottom: 1px solid red;
+    border-left: 1px solid red;
     margin: 0;
     width: 230px;
     text-align: center;
