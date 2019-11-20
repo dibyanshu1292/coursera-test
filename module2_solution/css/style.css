@@ -31,16 +31,16 @@ section>h2 {
 }
 
 section.l1>h2 {
-    background-color: #d49998;
+    background-color: white;
 }
 
 section.l2>h2 {
-    background-color: #c04543;
-    color: #ffffff;
+    background-color: black;
+   
 }
 
 section.l3>h2 {
-    background-color: #e5d198;
+    background-color: yellow;
 }
 
 section>p {
